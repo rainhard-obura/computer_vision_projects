@@ -1,6 +1,6 @@
 path: dataset  # Base directory containing train/val/test folders
-train: datatset/train/images
-val: dataset/val/images
+train: C:\Users\Reinhard\Documents\computer_vision_projects\amini_cocoa_contamination_challenge\dataset\train\images
+val: C:\Users\Reinhard\Documents\computer_vision_projects\amini_cocoa_contamination_challenge\dataset\val\images
 test: test/images
 
 nc: 3  # Number of classes
