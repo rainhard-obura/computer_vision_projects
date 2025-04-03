@@ -1,6 +1,6 @@
 path: dataset  # Base directory containing train/val/test folders
-train: train/images
-val: val/images
+train: datatset/train/images
+val: dataset/val/images
 test: test/images
 
 nc: 3  # Number of classes
