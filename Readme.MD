@@ -5,7 +5,7 @@ This repository collects  applied computer vision challenges tackled using Pytho
 
 ---
 
-## 🚀 Projects Overview
+##  Projects Overview
 
 ### 1. Amini Canopy Crop Challenge
 - **Goal**: Segment canopy vs. non-canopy regions in aerial images.
@@ -22,7 +22,7 @@ This repository collects  applied computer vision challenges tackled using Pytho
 
 ---
 
-## 🧰 Prerequisites
+##  Prerequisites
 
 - Python 3.8+
 - Jupyter Notebook or JupyterLab
@@ -34,7 +34,7 @@ This repository collects  applied computer vision challenges tackled using Pytho
 
 ---
 
-## 📦 Usage
+##  Usage
 
 1. **Clone** the repo:
    ```bash
